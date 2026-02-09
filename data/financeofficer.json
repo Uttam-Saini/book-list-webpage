@@ -1,12 +1,14 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS Finance Officer (Chapterwise MCQ)",
+    "image": "images/KVS/Financeofficer.jpg",
+    "amazon": "https://www.amazon.in/TIER-II-Finance-Officer-Chapterwise-Explanation/dp/B0GFV39XQH/ref=sr_1_3?crid=2A2NM67G5DL0O&dib=eyJ2IjoiMSJ9.mN_O-t_0bDWLretgR0TyqCgy7_Nq3-iSxjxaW0NzK0sy6EFv5BFp7H5HgWEN4NodpW52tz3hRIlHx4UK3b4CD8X03Izl1Tn0LXnF1hvn9p_B7S_d6uyVWSPcT5PYposlQbwq4bF6MujXJES3AdJ4dCtlG2V03una7P5SrsJ8HYE1vK694Nf61yjA6RWSkZpsvxLaCuxs3oC7hiRuhkKBkCkbVCQnGklMVQc3j3KrkJY.lIqIlWGaawSV_vOc5TGMlcgVnLrImwzXRlRNXQ_3T3M&dib_tag=se&keywords=finance+officer&qid=1770634705&sprefix=finance+offic%2Caps%2C404&sr=8-3",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS Finance Officer (Chapterwise MCQ) in Hindi",
+    "image": "images/KVS/Financeofficerhindi.jpg",
+    "amazon": "",
+    "pdf": ""
+  }
 ]

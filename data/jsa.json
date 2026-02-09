@@ -1,12 +1,20 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "EMRS Junior Secretariat Assistant (Chapterwise MCQ)",
+    "image": "images/KVS/EMRS JSA.jpg",
+    "amazon": "https://www.amazon.in/TIER-II-Secretariat-Assistant-Chapterwise-Explanation/dp/B0GFVGLGN9/ref=sr_1_1?crid=W9Z5NAMI4LNL&dib=eyJ2IjoiMSJ9.qT6WhUmF0skZnxHim4kKfP5_M6RcgtB9_rrowetc_HYRd4kG4sxz1OGbaJvQ79E3Un3BXRyO1PDUBAwD_zxwnFfOXJYph8EAHoIxojiwe3nIqTR5v6y1SzvdTHRSvd_8LmnQ-F1k3q39FkHoEz49VGgcIYtwVzDGtj8U8zVlEk64ccdxEIU-NzIV-pBVVA0l_nr6VMh-2_MB46ebUlYbiNzsUMJdvNAUWM8QOZ6rtjU.uhmnOddXfRPaHDfgyl9r646xIXceqMc4pEFxCFXFCIA&dib_tag=se&keywords=kvs+junior+secretariat+assistant+book+by+nodia&qid=1770636300&sprefix=kvs+junior+secretariat+assistant+book+by+nodi%2Caps%2C384&sr=8-1",
+    "pdf": ""
+  },
+  {
+    "title": "EMRS Junior Secretariat Assistant MCQ(Chapterwise MCQ) in Hindi",
+    "image": "images/KVS/EMRS JSAhindi.jpg",
+    "amazon": "https://www.amazon.in/dp/B0GLZ86BS7/ref=sr_1_11?crid=21LG6ES8NII4Q&dib=eyJ2IjoiMSJ9.J65rhqNoFA0Tb0POq18MZCspeJXEFDZJN5OtfA5vWE0Rq9BeH6Z4BDYy8YKjNtgW6bSvEdo_eLcN7VxQQAwLTXKfQ_ffLAUyI2NZT_yKxEdnTSo1wvtRs7V_lwWvyQ_KvkcWZh7B-cMo0kjsDgAsDENQGqVM8ftcln8oPy-AotyBGAEIZPQZsPTqhCLf7sRzsiUPnWt5XBgqcVoyo6iuQ142sxS272_zGnTyNUm-1_8.NiLvJJ1E6COhTwCklZ56bMrcRAvt7M0szeIslNxJf_c&dib_tag=se&keywords=emrs+junior+secretariat+assistant+book+by+nodia&qid=1770637798&sprefix=emra+junior+secretariat+assistant+book+by+nodia%2Caps%2C364&sr=8-11",
+    "pdf": ""
+  },
+  {
+    "title": "KVS/NVS Junior Secretariat Assistant MCQ(Chapterwise MCQ)",
+    "image": "images/KVS/KVS NVS JSA.jpg",
+    "amazon": "https://www.amazon.in/TIER-II-Secretariat-Assistant-Chapterwise-Explanation/dp/B0GFVGLGN9/ref=sr_1_6?crid=3N45OQB9U4L1S&dib=eyJ2IjoiMSJ9.um2rs7wK-4OLNT2o8qTZxpz5jfB3SMdjaUy9xwss_rO71vg2DOVhMBjUZlfmDNC_3Uanbw94AffFzz3mkTWFfVRtJP3c73wDQRRhy7WT7vyLCvqMulcZ3V9jnhqaoOKV7McGuBmEKSPKE3pXjQWYuXQOprZt3-imQfjtxSmAnf6RF38ZESAqlipB7C93DPLLGDxADx6hkQqFBGfKCDvPjupmkVFPDenMnLgO6cv6gGE.qoSzvMwiLaA8ku7uY6k08dc4yWiSK6mYB7rZV1yGWpg&dib_tag=se&keywords=junior+secretariat+assistant&qid=1770637852&sprefix=emrs+junior+secretariat+assistant%2Caps%2C379&sr=8-6",
+    "pdf": ""
+  }
 ]
