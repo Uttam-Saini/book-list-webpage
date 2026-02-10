@@ -1,12 +1,14 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS EMRS Librarian MCQ",
+    "image": "images/KVS/KVS NVS EMRS Librarian.jpg",
+    "amazon": "https://amzn.in/d/0hdOHTp4",
+    "pdf": ""
+  },
+  {
+    "title": "",
+    "image": "",
+    "amazon": "",
+    "pdf": ""
+  }
 ]

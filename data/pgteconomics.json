@@ -1,22 +1,14 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS EMRS PGT Economics Part-I MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT Economics Part-I MCQ.jpg",
+    "amazon": "https://amzn.in/d/05jfdLRc",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Economics Part-II MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT Economics Part-II MCQ.jpg",
+    "amazon": "https://amzn.in/d/072zMfsJ",
+    "pdf": ""
+  }
 ]

@@ -1,22 +1,26 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS EMRS PGT Geography Part-I MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT Geography Part-I MCQ.jpg",
+    "amazon": "https://amzn.in/d/0de13cLk",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Geography Part-II MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT Geography Part-II MCQ.jpg",
+    "amazon": "https://www.amazon.in/dp/B0GJZGHW2W?ref_=cm_sw_r_ffobk_cp_ud_dp_42BBW4NRKTT0M78GAX8R",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Geography Part-I Subjective",
+    "image": "images/KVS/KVS NVS EMRS PGT Geography Part-I Subjective.jpg",
+    "amazon": "https://amzn.in/d/0dQTXMfr",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Geography Part-II Subjective",
+    "image": "images/KVS/KVS NVS EMRS PGT Geography Part-II Subjective.jpg",
+    "amazon": "https://amzn.in/d/0c9k0Snr",
+    "pdf": ""
+  }
 ]

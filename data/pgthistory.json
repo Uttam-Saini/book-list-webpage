@@ -1,22 +1,26 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS EMRS PGT History Part-I MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT History-I MCQ.jpg",
+    "amazon": "https://amzn.in/d/0ig6Ayaz",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT History Part-II MCQ",
+    "image": "images/KVS/KVS NVS EMRS PGT History-II MCQ.jpg",
+    "amazon": "https://amzn.in/d/0iPciRDP",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT History Part-I Subjective",
+    "image": "images/KVS/KVS NVS EMRS PGT History-I Subjective.jpg",
+    "amazon": "https://amzn.in/d/0fYWhq0K",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT History Part-II Subjective",
+    "image": "images/KVS/KVS NVS EMRS PGT History-II Subjective.jpg",
+    "amazon": "https://amzn.in/d/08IMt3yA",
+    "pdf": ""
+  }
 ]

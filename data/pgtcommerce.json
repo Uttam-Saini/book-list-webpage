@@ -1,22 +1,38 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS EMRS PGT Commerce Part 3 Business Studies-I MCQ",
+    "image": "images/KVS/PGT commerce part3 business studies-I MCQ.jpg",
+    "amazon": "https://amzn.in/d/03yDsDot",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Commerce Part 4 Business Studies-II MCQ",
+    "image": "images/KVS/PGT commerce part4 business studies-II MCQ.jpg",
+    "amazon": "https://amzn.in/d/0hhFVhrd",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Commerce Part 1 Accountancy-I",
+    "image": "images/KVS/PGT commerce part1 accounts-I.jpg",
+    "amazon": "https://amzn.in/d/0b6T3ZuN",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Commerce Part 2 Accountancy-II",
+    "image": "images/KVS/PGT commerce part2 accounts-II.jpg",
+    "amazon": "https://amzn.in/d/0gzIo1SE",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Commerce Subjective Part 3 Business Studies-I",
+    "image": "images/KVS/PGT commerce part3 businessstudies-I.jpg",
+    "amazon": "https://amzn.in/d/0j7ZqpIh",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS EMRS PGT Commerce Subjective Part 4 Business Studies-II",
+    "image": "images/KVS/PGT commerce part4 businessstudies-II.jpg",
+    "amazon": "https://amzn.in/d/01Fa2sRi",
+    "pdf": ""
+  }
 ]

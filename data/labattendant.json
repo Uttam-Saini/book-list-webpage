@@ -1,12 +1,14 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "EMRS Lab Attendant (Chapterwise MCQ)",
+    "image": "images/KVS/Labattendant.jpg",
+    "amazon": "https://amzn.in/d/0f4wjNTO",
+    "pdf": ""
+  },
+  {
+    "title": "EMRS Lab Attendant MCQ(Chapterwise MCQ) in Hindi",
+    "image": "images/KVS/Labattendent hindi.jpg",
+    "amazon": "",
+    "pdf": ""
+  }
 ]
