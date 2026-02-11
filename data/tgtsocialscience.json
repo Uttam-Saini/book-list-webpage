@@ -1,12 +1,26 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS TGT Social Science Part-I MCQ",
+    "image": "images/KVS/KVS NVS TGT Social Science Part-I MCQ.jpg",
+    "amazon": "https://amzn.in/d/0aLWAUus",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS TGT Social Science Part-II MCQ",
+    "image": "images/KVS/KVS NVS TGT Social Science Part-II MCQ.jpg",
+    "amazon": "https://amzn.in/d/0ak3uQW6",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS TGT Social Science Part-I Subjective",
+    "image": "",
+    "amazon": "",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS TGT Social Science Part-II Subjective",
+    "image": "images/KVS/KVS NVS TGT Social Science Part-II(Subjective).jpg",
+    "amazon": "https://amzn.in/d/0eKMak8B",
+    "pdf": ""
+  }
 ]

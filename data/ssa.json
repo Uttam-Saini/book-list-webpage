@@ -1,12 +1,14 @@
 [
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""},
-  {"title": "", "image": "", "amazon": "", "pdf": ""}
+  {
+    "title": "KVS NVS Senior Secretariat Assistant (Chapterwise MCQ)",
+    "image": "images/KVS/KVS NVS Senior Secretariat Assistant (Chapterwise MCQ).jpg",
+    "amazon": "https://amzn.in/d/056v3AlT",
+    "pdf": ""
+  },
+  {
+    "title": "KVS NVS Senior Secretariat Assistant MCQ (Hindi)",
+    "image": "images/KVS/KVS NVS Senior Secretariat Assistant MCQ (Hindi).jpg",
+    "amazon": "https://amzn.in/d/08xQfqtL",
+    "pdf": ""
+  }
 ]
